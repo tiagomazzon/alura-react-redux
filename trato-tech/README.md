@@ -11,6 +11,16 @@
 * Diferença entre input controlado e não controlado;
 * Diferença de importação de imagem via URL e via SVGR.
 
+## Na Aula 3, aprende-se como:
+* O que é prop drilling;
+* O que é one-way data binding;
+* O que é Redux e o que ele soluciona;
+* Todos os termos utilizados neste curso sobre Redux como Actions, Type, Dispatch, Store, Reducer e Slice;
+* Como criar um Store e reducers via Slices.
+
+## Apêndice
+[Dicionário de Termos Redux](https://cursos.alura.com.br/course/react-gerenciamento-estados-globais-redux/task/112597)
+
 ---
 # Getting Started with Create React App
 
