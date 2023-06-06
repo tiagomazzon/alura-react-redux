@@ -18,8 +18,21 @@
 * Todos os termos utilizados neste curso sobre Redux como Actions, Type, Dispatch, Store, Reducer e Slice;
 * Como criar um Store e reducers via Slices.
 
+## Na Aula 4, aprende-se como:
+* Como criar uma action;
+* Como utilizar spread operator para compartilhar props;
+* O que é Dispatch e como utilizá-lo para mudar o estado do Redux;
+* O que é type e payload nas actions.
+
+## Na Aula 5, aprende-se como:
+* O que é imutabilidade;
+* O que é e como o Redux toolkit utiliza o Immer;
+* Benefícios da Imutabilidade e como utilizar o Immer junto com o Redux Toolkit.
+
 ## Apêndice
 [Dicionário de Termos Redux](https://cursos.alura.com.br/course/react-gerenciamento-estados-globais-redux/task/112597)
+[Como funciona destruct](https://cursos.alura.com.br/course/react-gerenciamento-estados-globais-redux/task/112601)
+[Spread de props](https://cursos.alura.com.br/course/react-gerenciamento-estados-globais-redux/task/112602)
 
 ---
 # Getting Started with Create React App
