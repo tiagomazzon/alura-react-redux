@@ -29,6 +29,11 @@
 * O que é e como o Redux toolkit utiliza o Immer;
 * Benefícios da Imutabilidade e como utilizar o Immer junto com o Redux Toolkit.
 
+## Na Aula 6, aprende-se como:
+* Como utilizar o reduce para usar dados de 2 reducers diferentes;
+* Como utilizar o state para poder calcular informações novas;
+* Como utilizar RegExp para procurar correspondências no texto.
+
 ## Apêndice
 [Dicionário de Termos Redux](https://cursos.alura.com.br/course/react-gerenciamento-estados-globais-redux/task/112597)
 [Como funciona destruct](https://cursos.alura.com.br/course/react-gerenciamento-estados-globais-redux/task/112601)

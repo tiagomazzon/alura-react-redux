@@ -67,13 +67,7 @@ export default function Item(props) {
               ? <AiFillHeart {...iconeProps} color='#ff0000' className={styles['item-acao']} onClick={resolverFavorito} />
               : <AiOutlineHeart {...iconeProps} className={styles['item-acao']} onClick={resolverFavorito} />
             }
-            <FaCartPlus
-              {...iconeProps}
-              color={estaNoCarrinho ? '#1875E8' : iconeProps.color}
-              className={styles['item-acao']}
-              onClick={resolverCarrinho}
-            />
-            {/* {carrinho
+            {carrinho
               ? (
                 <div className={styles.quantidade}>
                   Quantidade:
@@ -98,7 +92,7 @@ export default function Item(props) {
                 className={styles['item-acao']}
                 onClick={resolverCarrinho}
               />)
-            } */}
+            }
           </div>
         </div>
       </div>
